@@ -1,1 +1,2 @@
 # UFO-Sightings
+The Purpose of the work was to help work on Dana's web page and provide a more in-depth analysis of ufo sightings.  With this, we created a search engine to engage the number of UFO sightings in the past decade.  Using Javascript along with VS Code, editing the webpage was not difficult. However, the one drawback I realized in this feature was that if you removed the filter button, you had to refresh the page so it could provide you the information you wanted to search. 
